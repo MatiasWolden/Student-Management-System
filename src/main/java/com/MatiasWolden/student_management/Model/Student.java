@@ -7,7 +7,7 @@ import jakarta.persistence.Id;
 
 /**
  * @author Matias Wolden
- * @version 1.1
+ * @version 1.2
  * Java klasse for student
  */
 @Entity
